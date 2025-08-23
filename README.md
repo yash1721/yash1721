@@ -4,7 +4,7 @@
 </p>
 <h1 align="center" >I'm Yash Kumar</h1>
 
-<h1 align="center">MNNIT CSE Final Year</h1>
+<h1 align="center">MNNIT Final Year</h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h2 align="center">Full Stack Web Developer | Machine Learning | Competitive Programmer </h2>
