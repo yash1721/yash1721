@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/yash-kumar21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-kumar21" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yashkumar_212" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashkumar_212" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yash_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yash_17" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yash212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash212" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/yashkumar308621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash212" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,7 +45,7 @@
 <hr>
 
 
-[![LeetCode user yash212](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyash212&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/yash212/)
+[![LeetCode user yashkumar308621](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyash212&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/yashkumar308621/)
 
 [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=yash_17)](https://codeforces.com/profile/yash_17) <!-- codeforces -->
 
